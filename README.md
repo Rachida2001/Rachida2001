@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rachida2001
-- 👀 I’m interested in cloud computing.
+- 👀 I’m an AWS Cloud Engineer.
 - 🌱 I’m currently learning AWS DevOps Engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rachidataouil07@gmail.com
